@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script.js"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"fle",
+				"flex\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"q",
+				"qs\tquerySelector"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"a",
+				"auto\tpadding-left"
+			],
+			[
+				"pati",
+				"padding-left\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"borde",
+				"border-top\tproperty"
+			],
+			[
+				"che",
+				"check-menu"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"c",
+				"checked\tAttr"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"texal",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"f",
+				"flex-end\tjustify-content"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"bak",
+				"background\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"bar",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"switch",
+				"switch1"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"bacgro",
+				"background\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fler",
+				"flex-wrap\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"FOS",
+				"font-size\tproperty"
+			],
+			[
+				"bago",
+				"background\tproperty"
+			],
+			[
+				"co",
+				"container__about"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"nav",
+				"nav__all"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"text",
+				"text__p"
+			],
+			[
+				"WID",
+				"width\tproperty"
+			],
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"mat",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bodre",
+				"border-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"ow",
+				"overflow\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"dt",
+				"dt\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Программирование/Projects/JavaScript/script.js",
+		"/D/Программирование/Projects/JavaScript/js/script.js",
+		"/D/Программирование/Projects/JavaScript/js/index.js",
+		"/D/Программирование/Projects/JS/index.html",
+		"/D/Курсы/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0.part1/code/dz_01_blank/dz_01_blank/unit_01/unit_01.js",
+		"/D/Курсы/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0.part1/code/dz_01_blank/dz_01_blank/unit_01/style.css",
+		"/D/Курсы/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0.part1/code/dz_01_blank/dz_01_blank/unit_01/unit_01.html",
+		"/D/Курсы/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0.part1/code/first-program/app/index.html",
+		"/D/Программирование/JS/index.html",
+		"/D/Курсы/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0.part1/code/function.zip",
+		"/D/Программирование/JS/js/index.js",
+		"/D/Программирование/Spotify/css/style.css",
+		"/D/Программирование/Spotify — копия/index.html",
+		"/D/Программирование/Spotify — копия/css/style.css",
+		"/D/Программирование/Набивание руки портфолио/css/style.css",
+		"/D/Программирование/Набивание руки портфолио/index.html",
+		"/D/Программирование/слайдер/Слайдер/style.css",
+		"/D/Программирование/слайдер/Слайдер/index.html",
+		"/D/Программирование/слайдер/css/style.css",
+		"/D/Слайдер/Слайдер/index.html",
+		"/D/Программирование/слайдер/index.html",
+		"/D/Программирование/Hover/index.html",
+		"/D/Программирование/Hover/css/style.css",
+		"/D/Программирование/Набивание руки портфолио 1/index.html",
+		"/D/Программирование/Набивание руки портфолио 1/css/style.css",
+		"/D/Программирование/Набивание руки портфолио 1/script.js",
+		"/D/Программирование/Набивание руки портфолио/links/about.html",
+		"/D/Программирование/Набивание руки портфолио/about.html",
+		"/D/Программирование/Набивание руки vol 2/index1.html",
+		"/D/Программирование/Набивание руки vol 2/css/style.css",
+		"/D/Программирование/Набивание руки vol 2/index.html",
+		"/D/Программирование/Example from Youtube MoGo/index.html",
+		"/D/Программирование/Example from Youtube MoGo/css/style.css",
+		"/D/Программирование/example/css/style.css",
+		"/D/Программирование/example/index.html",
+		"/D/Программирование/project/index.html",
+		"/D/Программирование/project/с ютуба.html",
+		"/D/Программирование/study/index.js",
+		"/D/Games/ПРОГРАММ/project/style.css",
+		"/D/Games/ПРОГРАММ/project/index.html",
+		"/D/Games/ПРОГРАММ/кот/portfolio-step-1/style1.css",
+		"/D/Games/ПРОГРАММ/project/с ютуба.html"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testscript.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
